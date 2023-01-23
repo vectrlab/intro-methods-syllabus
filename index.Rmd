@@ -1,0 +1,333 @@
+---
+title: "Syllabus"
+book_filename: psyc18
+output:
+  pdf_document:
+    toc: no
+  html_document:
+    toc: yes
+    theme: united
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<p align="center">**San Jos&eacute; State University**</p>
+
+<p align="center">**Department of Psychology**</p>
+
+<p align="center">**PSYC 018: Introduction to Research Methods**</p>
+
+<p align="center">**Section 5, Spring 2023**</p>
+
+<p align="center">Last updated: `r format(Sys.time(), '%B %d, %Y')`</p>
+
+
+# Instructor Contact Information
+Instructor:	      David Schuster, Ph.D.
+
+Office Location:	DMH 315
+
+Telephone:	      408-924-5659
+
+Email:	          david.schuster@sjsu.edu
+
+Office Hours:	    Thursdays 10:45am-11:45am in-person and Zoom
+
+# Course Information
+Classroom:	      DMH 359
+
+Class Days/Time:	Tues. & Thurs., 12:00pm – 1:15pm
+
+Prerequisites:	  PSYC 001 and STAT 095 or equivalents
+
+# Welcome!
+
+My name is Dr. David Schuster, and you are welcome to call me 'Dave,' 'David,' or 'Dr. Schuster.' My preferred pronouns are he/him/his. I have been teaching since 2008 and a professor at SJSU since 2013. I earned my Ph.D. in psychology from the University of Central Florida. I am looking forward to being your instructor as we explore research psychology.
+
+I am here to help you, so please take advantage of opportunities to meet with me during drop-in office hours and by appointment. In these meetings, you can ask me questions, further discuss any part of the course, talk about your plans after graduation, and connect to other resources on campus.
+
+# Course Description
+The major goal of this course is for you to understand and evaluate claims from the perspective of the social scientist. This course will introduce you to research in psychology and prepare you to design your own research. Skills developed in this course will be useful to critical thinkers in a data-driven society.
+
+The catalog description of this course is: Psychological research methods and design (experimental, quasi-experimental [correlational], and descriptive investigations) covering observation, instrumentation, and the collection, analysis, interpretation, and reporting of research data as illustrated through a review of original research in a variety of the subdisciplines of psychology.
+
+## Course Format
+
+This is a technology intensive, in-person course. Required technology is described in the [required materials section](#requiredmaterials) of this document.
+
+# Learning Outcomes {#learningoutcomes}
+
+## Course Learning Outcomes {#clos}
+The objective of this course is to provide you with a solid introduction to psychological research. We will examine the logic and strategies of scientific research and learn how to use statistics to draw conclusions from data. You will learn what research methods are available, when to use specific research methods, and how to interpret research results.
+
+Upon successful completion of this course, you will be able to:
+
+-	CLO1 – Explain the basic principles of the scientific method
+
+-	CLO2 – Distinguish between experimental, quasi-experimental, and non-experimental methods
+
+-	CLO3 – Strategically select appropriate research designs
+
+-	CLO4 – Make inferences from research 
+
+-	CLO5 – Critique the validity of inferences from research
+
+-	CLO6 – Explain the ethical treatment of human and animal participants in research and the institutional requirements for conducting research
+
+-	CLO7 – Apply statistical analysis and the logic of hypothesis testing to address research questions
+
+-	CLO8 – Demonstrate familiarity with APA style
+
+-	CLO9 – Identify mentorship opportunities in science
+
+The learning objectives will be assessed via written assignments and exam questions.
+
+## Program Learning Outcomes {#plos}
+Upon successful completion of the requirements for a major in psychology, students will be able to:
+
+-	PLO1 – Knowledge Base of Psychology – identify, describe, and communicate the major concepts, theoretical perspectives, empirical findings, and historical trends in psychology
+
+-	PLO2 – Research Methods in Psychology – design, implement, and communicate basic research methods in psychology, including research design, data analysis, and interpretations
+
+-	PLO3 – Critical Thinking Skills in Psychology – use critical and creative thinking, skeptical inquiry, and a scientific approach to address issues related to behavior and mental processes
+
+-	PLO4 – Application of Psychology – apply psychological principles to individual, interpersonal, group, and societal issues
+
+-	PLO5 – Values in Psychology – value empirical evidence, tolerate ambiguity, act ethically, and recognize their role and responsibility as a member of society
+
+Each assignment in this course maps onto one or more of these PLOs, with full coverage over all assignments in the course. PLOs 1-6 are especially emphasized in the first weeks of the course, and PLOs 7-9 are especially emphasized in the subsequent weeks of the course.
+
+# Required Materials {#requiredmaterials}
+
+## Canvas and E-Mail
+
+All graded assignments will be accepted in electronic form using the Canvas learning management system assignments page (Canvas is available at https://sjsu.instructure.com/). Communication regarding the course will be posted to Canvas or sent via the e-mail address linked to your MySJSU account. It is your responsibility to make sure you are enrolled in Canvas and receiving my emails.
+
+## Required Texts/Readings
+Stanovich, K.E. (2018). How to think straight about psychology (11th ed.). Pearson Education. ISBN: 978-0134478623
+
+You will need the textbook for required readings throughout the semester. Supplemental handouts will be provided on Canvas.
+
+## Computer
+
+A laptop or tablet computer with Internet access will be necessary to participate in class activities, take exams, and for your use outside of class. In lieu of a computer or tablet, a smartphone may be used but is unlikely to provide a good experience. You will need a keyboard and the ability to browse web sites and use spreadsheets, a calculator, a word processor, and a stopwatch. If you do not have a laptop or tablet computer available for this course, please meet with me to discuss free options for computer resources. I will work with you to find acceptable free computing resources. 
+
+Because it is distracting, please avoid non-class technology use during class.
+
+We may hold meetings via <a href="https://sjsu.zoom.us">Zoom</a>. A webcam and microphone are recommended but not required. For your security, I recommend that you disable and cover your webcam when not in use.
+
+This course may require occasional use of software such as Excel and Word. I will provide instruction in the use of the software; you do not need to start the course with this knowledge. You do *not* need to purchase licenses for any software.
+
+In case you need them, these software packages are available to you at no cost:
+
+- [RStudio](https://www.rstudio.com)
+
+- [R](https://cran.r-project.org)
+
+- [SPSS](https://www.sjsu.edu/it/services/collaboration/software/instructions.php)
+
+- [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower)
+
+- [Adobe Creative Cloud](https://www.sjsu.edu/ecampus/software-tools/teaching-tools/video-creative/adobe/students.php)
+
+- [Microsoft Office](https://www.office.com/getoffice365)
+
+- [Google Drive](https://sjsu.drive.google.com)
+
+# Grading Policy
+
+## Determination of Grades
+
+Grades will be available to you on Canvas throughout the semester. Grades are assigned based on your final point total out of 1000 points for the course:
+
+--------------------------------------
+Grade                 Points
+--------------------- ----------------
+A plus	              > 965 points
+
+A	                    916 to 965 points
+
+A minus	              896 to 915 points
+
+B plus                866 to 895 points
+
+B	                    816 to 865 points
+
+B minus	              796 to 815 points
+
+C plus	              766 to 795 points
+
+C	                    716 to 765 points
+
+C minus	              696 to 715 points
+
+D plus	              666 to 695 points
+
+D	                    616 to 665 points
+
+D minus               595 to 615 points
+
+F	                    < 595 points
+--------------------------------------
+
+## Rounding is Included in the Grading Scale
+
+The point totals reflect rounding up to the nearest percentage. For example, an A- would normally require 900 points (or 90% of 1000 points). With rounding, it only requires 896 points (or 89.6% of 1000 points). Because rounding is built into the grading scale, your grade will be based on your final point total, rounded to the nearest whole point (so, 895.6 points is an A-, but 895.4 points is a B+). To be fair to everyone in the class, these are firm cutoffs.
+
+# Course Requirements and Assignments {#assignments}
+
+## Activity Assignments (40% of grade = 400 points)
+Ten activities are worth 40 points each. The activities are designed to give you hands-on practice with the techniques discussed in the lecture and handouts. You will receive points for completing all required parts of the assignment as described in class. Because this is a collaborative assignment, you must be present for the activity and the reflection question in order to receive credit. Occasionally, you may not have time to finish the activity by the end of class. If this happens, I strongly encourage you to complete the activity on your own. Always check your completed work against any answer key posted to Canvas for feedback on your mastery. I am always happy to answer your questions about the activities, discuss strategies, and/or provide additional feedback on your work. Maps onto CLOs 1-7.
+
+## Quizzes (15% of grade = 150 points)
+Eleven quizzes are worth 15 points each, and the lowest one is dropped (making each quiz only about 1.4% of your final grade). This leaves 10 quizzes worth 15 points each, for a total of 150 points. Quizzes are desgined to give you quick, low-stakes feedback on your mastery of the prior unit. Most weeks, a quiz will be assigned within Canvas. You may use support materials (your textbook, web sites, and your notes) when you take your quiz, but you must take your quiz alone without the help of any other live individual or automated aid. You may not communicate with anyone or any automation, including chatbots, except the instructor during a quiz. Doing so is academic dishonesty. For example, you may refer to the web page of a textbook during a quiz, but you may not post messages or send e-mails to someone while you take a quiz. As with activities, I am always happy to answer your questions following the quiz or discuss its concepts in more detail.
+In summary: Live help or automation is not okay for quizzes, but any other resources are okay. Please let me know if you have questions about what is allowed during quizzes or exams. Maps onto CLOs 1-8.
+
+## Exams (20% of grade = 200 points)
+Three exams are worth aproximately 67 points each, which is less than 7% of your final grade per exam. The purpose of the exams is to give you feedback on your ability to apply the knowledge learned in the previous part of the course. The third exam is a cumulative final exam.
+
+Materials used during an exam are subject to inspection. You may use support materials (your textbook, web sites, and your notes) when you take your quiz, but you must take your exam alone without the help of any other live individual or automated aid. You may not communicate with anyone or any automation, including chatbots, except the instructor during a exam. Doing so is academic dishonesty. For example, you may refer to the web page of a textbook during a quiz, but you may not post messages or send e-mails to someone while you take a quiz. As with activities, I am always happy to answer your questions following the exam or discuss its concepts in more detail.
+In summary: Live help or automation is not okay for exams but any other resources are okay. Please let me know if you have questions about what is allowed during quizzes or exams. Maps onto CLOs 1-8.
+
+## Final Project (25% of grade = 250 points)
+More details about the project, including the rubric for grading, will be posted to Canvas during the semester. As part of the project, you will present a summary of a research paper. This presentation will take place during the final exam period, and you must be present to receive full credit; if not, a 20% final project penalty will apply. Maps to CLO2, 4, and 5.
+
+## Extra Credit
+I intend to offer a small extra credit opportunity (approximately 15 points) for those who attend the Spartan Psychological Association Research Conference on campus this spring. Details are subject to change and will be announced in class. Maps to CLO9.
+
+
+## Late Assignments and Make-Ups {#makeup}
+
+Assignments are due as indicated on Canvas, and the deadlines are strict. For example, an assignment submitted one second after the deadline will be counted as late. Because of this, I encourage you to avoid submitting assignments in the last hour before the due date whenever possible. 
+
+### Late activity assignments
+
+Late activity assignments will be accepted with a 20% penalty per day. That is, an assignment submitted between 0 and 23 hours past the deadline will be accepted with a 20% reduction included after grading. An assignment submitted 24 hours past the deadline will be accepted with a 40% reduction included after grading. Please allow extra time for me to grade late-submitted assignments. If you feel that your circumstances warrant an exception to the late assignment penalty, such as due to a health emergency, submit the assignment as soon as you can and complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** to request an exception.
+
+### Make-ups of all other assignments
+
+Class activities that are scheduled, such as a reflection question, an exam, or an in-class activity, cannot be recreated easily. If you need a make-up assignment, please complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** to request a make up. Complete this form as soon as you are aware of your need for a make-up and able to do so. Make-ups are intended for exceptional, unforeseen, and unavoidable circumstances.
+
+### No assignment submission after the last day of instruction
+
+I can only accept assignments (except the final) until 11:59pm on the last day of instruction for the semester. At that time, all unsubmitted and unsatisfactory/no credit assignments will receive zero points. Should an event prevent you from completing the course, contact me as soon as you are able to discuss our options for an incomplete. 
+
+
+## Final examination or evaluation {#final}
+
+Faculty members are required to have a culminating activity for their courses, which can include a final examination, a final research paper or project, a final creative work or performance, a final portfolio of work, or other appropriate assignment.
+
+The culminating activity for this course will be the final presentation.
+
+# Classroom Environment {#environment}
+
+We agree to:
+
+-	**Mutual respect**, which means that we recognize and value that we bring different skills, experiences, and qualities to our course, and we act with regard for how our behavior affects others. As much as we can, we recognize and accommodate individual constraints that impact our work. Some ways we will show mutual respect include:
+    + Affirming that ableism, classism, racism, sexism, transphobia, heterosexism, and xenophobia will not be acceptable in the physical and digital spaces that make up our course. 
+  
+    + Respecting our and others’ intellectual property. For students, this includes not sharing or posting copyrighted class materials. For me, this includes seeking permission before publicly sharing or posting your work (unless for an educational purpose, checking for or responding to academic dishonesty, or due to legal action). Your work may be sent to turnitin.com and processed through search engines to detect plagiarism. However, I will not allow turnitin.com to store your work in their repository.
+  
+    + We understand that we have multiple obligations and limited time. Our meetings will start promptly at times convenient for both of us.
+  
+    + We understand that we are all doing our best as we face our own challenges. I will expect that you put in reasonable effort on your assignments. You can expect patience and help whenever you struggle with course material. And, I am always available to meet with you should life events impact your progress in the course or success in your program.
+
+- **Academic and professional integrity**, which means that the credibility of science and education depends on us acting ethically. Ethical violations by us or our collaborators can jeopardize our research and harm our reputation as researchers. We also know that we cannot act ethically if we do not understand what that means for researchers. Therefore, it is important that research ethics are part of your learning in this class. You can expect support and guidance when you navigate and speak up on challenging ethical situations. You can also expect no tolerance of ethical or academic integrity violations that negatively affect our class or community, including cheating and plagiarism. You can expect your instructor to follow all University policies and protocols regarding the handling of suspected academic dishonesty. Penalties can include failure of the course.
+
+-	**Unlimited support** related to the class and your professional training and development. This means that there is no limit to the number of questions you may ask, e-mails you may send, and no restriction on the hours you can spend in meetings with me. You need never apologize for asking a question or seeking support. Time is limited but support is not; if the volume of student meetings were to become unmanageable, I will make adjustments to help all students more efficiently (for example, by answering a common question to the whole class). I am always happy to help you.
+
+-	**Incorporation of issues of social justice**. It is my goal to help prepare you to tackle the major societal challenges we face, including COVID-19 and broader issues of equity and sustainability. Success against these challenges requires equitable participation by people of diverse backgrounds and experiences. To support this goal, this course will incorporate discussion of social justice when relevant to the course and support your evaluation of how our discipline has/can/will address social justice, as well as how it has contributed to social injustice. 
+
+# University Policies {#policies}
+
+Per [University Policy S16-9](http://www.sjsu.edu/senate/docs/S16-9.pdf),relevant university policy concerning all courses, such as student responsibilities, academic integrity, accommodations, dropping and adding, consent for recording of class, etc. and available student services (e.g. learning assistance, counseling, and other resources) are listed on [Syllabus Information web page](https://www.sjsu.edu/curriculum/courses/syllabus-info.php). Make sure to visit this page to review and be aware of these university policies and resources.
+
+You must obtain the instructor’s permission to make any audio or video recordings in this class.
+
+Success in this course is based on the expectation that students will spend, for each unit of credit, a minimum of 45 hours over the length of the course (normally three hours per unit per week) for instruction, preparation/studying, or course related activities, including but not limited to internships, labs, and clinical practica. Other course structures will have equivalent workload expectations as described in the syllabus. 
+
+# Library Liaison 
+Our library liaison is Christa Bailey. Email: christa.bailey@sjsu.edu
+
+# Course Schedule {#schedule}
+
+The course schedule is tentative and likely to change; modifications will be posted to this page.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Week Date                   Topics                                                                      Textbook    Quiz & Activity
+---- ---------------------- --------------------------------------------------------------------------- ----------- ----------------------
+1     Thu., Jan. 26         Introduction
+
+2	    Tue., Jan. 31         The scientific method                                                       Ch. 1       Quiz 1, Act. 1
+
+      Thu., Feb. 2	        
+      
+3	    Tue., Feb. 7          Operational definitions & measurement                                       Ch. 3       Quiz 2, Act. 2
+      
+      Thu., Feb. 9	        
+
+4	    Tue., Feb. 14         Causality                                                                   Ch. 5       Quiz 3, Act. 3       
+      
+      Thu., Feb. 16         	        
+ 
+5	    Tue., Feb. 21         Exam 1 Review (Tue.)                                                          
+
+      Thu., Feb. 23	        Exam 1 (Thu.)
+
+6	    Tue., Feb. 28         Intro to Hypothesis Testing                                                             Quiz 4, Act. 4
+
+      Thu., Mar. 2	        
+
+7	    Tue., Mar. 7          Validity and Reliability                                                    Ch. 4       Quiz 5, Act. 5
+
+      Thu., Mar. 9	         
+
+8	    Tue., Mar. 14         Descriptive designs                                                                     Quiz 6, Act. 6
+
+      Thu., Mar. 16	        
+
+9	    Tue., Mar. 21         Experimental designs                                                        Ch. 6       Quiz 7, Act. 7  
+
+      Thu., Mar. 23	        
+
+10	  Tue., Mar. 28         Spring Recess, **No Class Meetings**                                                    
+
+      Thu., Mar. 30	         
+
+10	  Tue., Apr. 4          Exam review (Tue.)                                                                               
+
+      Thu., Apr. 6	        Exam 2 (Thu.)
+
+11	  Tue., Apr. 11         Experimental designs, continued; quasi-experimental designs                 Ch. 7       
+
+      Thu., Apr. 13	        Introducing the project (Thu.)
+
+12	  Tue., Apr. 18         Evaluating literature                                                       Ch. 8       Quiz 8, Act. 8
+
+      Thu., Apr. 20	         
+
+13	  Tue., Apr. 25         Moderating, mediating, and confounding variables                            Ch. 9       Quiz 9, Act. 9
+
+      Thu., Apr. 27	        
+
+14	  Tue., May 2           Statistics and effect size (Tue.)                                           Ch. 10      Quiz 10,Act. 10    
+
+      Thu., May 4	          Project workshop (Thu.)
+
+15	  Tue., May 9           Statistics and effect size, continued                                                   Quiz 11
+
+      Thu., May 11 	        Exam 3 (Thu.)
+      
+      Mon., May 15          Last day of instruction, assignment submission ends 11:59 pm                             
+
+Final Thu., May 18	        Project presentations, 9:45am - 12:00pm                                                 Final project
+
+Final Tue., May 23	        Project presentations, 9:45am - 12:00pm                                                 Final project
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
