@@ -2,11 +2,11 @@
 title: "Syllabus"
 book_filename: psyc18
 output:
-  pdf_document:
-    toc: no
   html_document:
     toc: yes
     theme: united
+  pdf_document:
+    toc: no
 ---
 
 ```{r setup, include=FALSE}
