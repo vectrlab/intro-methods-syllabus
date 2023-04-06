@@ -2,11 +2,11 @@
 title: "Syllabus"
 book_filename: psyc18
 output:
-  pdf_document:
-    toc: no
   html_document:
     toc: yes
     theme: united
+  pdf_document:
+    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -314,8 +314,6 @@ Week Date                   Topics                                              
       Mon., May 15          Last day of instruction, assignment submission ends 11:59 pm                             
 
 Final Thu., May 18	        Project presentations, 9:45am - 12:00pm                                                 Final project
-
-Final Tue., May 23	        Project presentations, 9:45am - 12:00pm                                                 Final project
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
